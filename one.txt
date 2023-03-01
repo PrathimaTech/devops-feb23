@@ -1,1 +1,3 @@
 this file is for storing some database passwords
+username=badri
+password=tirupati0!
